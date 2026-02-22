@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hard Rock FM Jakarta",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/HARDROCKFM_JAKARTA.aac",
+    "backupUrl": null,
+    "logo": "https://static.radio.net/images/broadcasts/4d/45/122113/1/c300.png",
+    "genre": ["rock", "metal"]
+  },
+  {
+    "name": "Prambors FM Jakarta",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.aac",
+    "backupUrl": null,
+    "logo": "https://static.radio.net/images/broadcasts/5d/9c/122197/1/c300.png",
+    "genre": ["hiphop", "rap", "pop"]
+  },
+  {
+    "name": "Jak 101 FM",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JAK101FM_JAKARTA.aac",
+    "backupUrl": null,
+    "logo": "https://static.radio.net/images/broadcasts/6d/38/122118/1/c300.png",
+    "genre": ["rock"]
+  }
+]
